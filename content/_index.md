@@ -8,3 +8,15 @@ Hola ✌️  soy el explorer **Axel Panico** y este es mi blog personal donde co
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
+Mi expectativas para este proyecto son:
+
+- Aprender github y git
+- Aplicar mis conociientos de frontend
+- Mejorar mis conocimientos de java script
+- Aprender Nodes.
+- Aprender a crear apps con backend
+- Arender a diseñar apps
+- Aprender Express.JS para crear webservices
+- Aprender sobr el manejo de Bases de datos relacionales, SQL y NoSQL
+- Poder divertirme mientras aprendo
+- Encontras nuevos metodos de aprendizaje
