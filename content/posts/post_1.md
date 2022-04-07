@@ -43,7 +43,7 @@ varias funciones.
 
 ¡Gracias por leer!
 
-¡Aseguir apreniendo y jugando para poder viajar hasta el espacio!
+¡A seguir aprendiendo y jugando hasta llegar al espacio!
 
 
 
