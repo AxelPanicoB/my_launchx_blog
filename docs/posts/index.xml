@@ -7,5 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://axelpanicob.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura de un desarrollador de software</title>
+      <link>https://axelpanicob.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Wed, 06 Apr 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://axelpanicob.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>¡Bienvenido!
+En este post escribire lo que yo considero que se deberia basar la cultura de un desarrollador de software:
+ Constancia Resposabilidad Perseverancia Honestividad Compromiso Respeto Paciencia Confianza  Para mi estos son puntos imprtantes que deberia tener cualquier profecional en el campo del desarrollo de software.</description>
+    </item>
+    
+    <item>
+      <title>Título de tu blog post</title>
+      <link>https://axelpanicob.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://axelpanicob.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Bienvenidos de nuevo!
+En mi transcurso de este programa he mejorado mis conocimientos y adquirido mucho más conocimiento de lo que pude pensar en un plazo corto de tiempo. Ha sido un reto como profecionista, como persona, ya que me ha dado la oportunidad de darme cuenta de mis capacidades son mayores de lo que pensaba. Sé que esto es solo el comienzo de un viaje fantástico lleno de muchas oportunidades y retos, creo que es solo es disfrutar el viaje de un nuevo mundo.</description>
+    </item>
+    
   </channel>
 </rss>
