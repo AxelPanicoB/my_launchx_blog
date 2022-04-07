@@ -24,7 +24,7 @@ En el ambito laboral tengo conocimiento en el área de Service Desk, tego 4 año
 
 Me he especializado a resolver problemas en tiempo real y bajo presión en el entorno de sistema operativo windows y en office 365.
 
-Tambien tengo conocimiento de mondar racs, instalar, configurar servidores con sistema RED HAT.
+Tambien tengo conocimiento de montar racs, instalar, configurar servidores con sistema RED HAT.
 
 Esto es un poco de mi y parte de mi experiencia.
 
