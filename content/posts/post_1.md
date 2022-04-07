@@ -1,7 +1,7 @@
 ---
 title: "Mi experiencia en Launch X"
 date: 2022-04-06
-description: 'Mi experiencia en Launch X y conocimientos adquiidos por este programa de oportunidades'
+description: 'Mi experiencia en Launch X y conocimientos adquiridos'
 ---
 
 ¡Bienvenidos de nuevo!
