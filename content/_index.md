@@ -11,7 +11,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mi expectativas para este proyecto son:
 
 - Aprender github y git
-- Aplicar mis conociientos de frontend
+- Aplicar mis conocimientos de frontend
 - Mejorar mis conocimientos de java script
 - Aprender Nodes.
 - Aprender a crear apps con backend
