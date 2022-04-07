@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Mi experiencia en Launch X"
 date: 2022-04-06
-description: 'Mi experiencia en Launch X'
+description: 'Mi experiencia en Launch X y conocimientos adquiidos por este programa de oportunidades'
 ---
 
 ¡Bienvenidos de nuevo!
@@ -17,15 +17,25 @@ profecionales y como personas, adicional algo que tengo que saltar que creo que 
 este viaje de Launch X es que siempre han tenido el factor humano, siempre pensando en que nos sintamos seguros, comodos, 
 tranquilos, apoyados y motivados.
 
-En el comienzo del programa aprendi mejores conceptos de phyton, practicando y reforzando el conocimiento en este,creo que
-fue una gran comiezo ya que es un lenguaje de programacion bastante sencillo para empezar y entender como funciona empezar 
-a programar.
+En el comienzo del programa aprendi:
+- Jupyter notebooks
+- Logica de rogramacion
+- Github
+- Phyton
+- Visual estudio code
 
-En el área de forntend fue todo un reto ya que todo el tema fue nuevo para mi, en este adquiri los conocimientos de 
-como  estructurar una pagina web, buenas practicas de escrtura de codigo, dale estilo con ccs3 , darle funcionalidad
-con java script, como montar tu pagina en un servidor, conectar la pagina con una appi o appis, usar los frameworks vue,
-vuex, tambien angular. Como estos frameworks ayudan que nuestros proyectos tenga un mejor orden y una funcionalidad 
-eficaz.
+En el área de forntend fue todo un reto ya que todo el tema fue nuevo para mi, en este adquiri los conocimientos de:
+
+- estructurar una pagina web
+- buenas practicas de escrtura de codigo
+- Css 3
+- Html 5
+- Java script
+- Montar una pagina web en un servidor
+- El uso de  appi´s
+- vue, vuex
+- angular
+- Azure
 
 En esta area de backend tengo grandes espectativas y emocion de aprender y ver todo lo que hay detras de las paginas.
 Aplicaciones web y funcionalidad de los servidores respecto a aplicaciones o paginas web y como crear base de datos entre
